@@ -10,16 +10,18 @@ aim to understand if there are certain unique features that can predict which ap
 
 ### Importing the Dataset and Reducing Memory Toll
 
-For more details, visit [this Jupyter Notebook]
-(https://github.com/jhl0204/Capstone-1-H1B-Predictions/blob/master/Capstone%20Project/Unit%205%20-%20Data%20Wrangling/vF.4_H1B_params_to_json_CLEAN.ipynb)
+For more details, visit [this Jupyter Notebook](https://github.com/jhl0204/Capstone-1-H1B-Predictions/blob/master/Capstone%20Project/Unit%205%20-%20Data%20Wrangling/vF.4_H1B_params_to_json_CLEAN.ipynb)
 
 
 ### Data Wrangling
 
-For more details, visit [this Jupyter Notebook]
-(https://github.com/jhl0204/Capstone-1-H1B-Predictions/blob/master/Capstone%20Project/Unit%205%20-%20Data%20Wrangling/vF_Data%20Wrangling_CLEAN.ipynb)
+For more details, visit [this Jupyter Notebook](https://github.com/jhl0204/Capstone-1-H1B-Predictions/blob/master/Capstone%20Project/Unit%205%20-%20Data%20Wrangling/vF_Data%20Wrangling_CLEAN.ipynb)
 
 ### Feature Creation
 
-For more details, visit [this Jupyter Notebook]
-()
+For more details, visit [this Jupyter Notebook](https://github.com/jhl0204/Capstone-1-H1B-Predictions/blob/master/Capstone%20Project/Unit%205.5%20-%20Feature%20Creation/ch5.5_Feature%20Creation_and_Selection_v2.ipynb)
+
+
+### Data Storytelling
+
+- Work in Progress
